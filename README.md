@@ -1,2 +1,2 @@
 # PDM
-gay project
+This is a PDM project
